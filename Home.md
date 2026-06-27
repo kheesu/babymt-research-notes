@@ -42,6 +42,9 @@ Map of content for the vault. See [[README]] for conventions.
 - [[2026-06-26 Freeze no_repeat_ngram_size]]
 
 ## Literature
+- [[Literature Synthesis & Matrix]] — cited related-work map + comparison matrix (deep-research, 2026-06-26)
+- Path-2 anchors: [[To Memorize or to Retrieve]] (closest prior work) · [[MassiveDS]] · [[RETRO]] · [[kNN-MT]] · [[kNN-LM]]
+- Key risk: [[Rethinking TM-Augmented NMT]] — retrieval *fails* in low-resource MT (variance–bias)
 - [[Bilingual Dictionary NMT]] · [[RAG-MT with Unstructured Knowledge]] · [[DragFT]]
 
 ## Journal
